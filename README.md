@@ -1684,39 +1684,6 @@ plt.show()
 
 
 
-### Key Observations from the Heatmap
-1. Positive Correlations
-Aircraft Category and Engine Type (0.31):
-
-Moderate positive correlation suggests certain aircraft categories are associated with specific engine types. For example, airplanes may typically use reciprocating or turbo engines.
-
-Implication: Investment or safety improvements targeting specific engine types could benefit these aircraft categories.
-
-Aircraft Category and Year (0.11):
-
-Slight positive correlation indicates a temporal trend where certain aircraft categories may become more or less prominent over time.
-
-Implication: Older aircraft types might require more maintenance or regulatory attention.
-
-Purpose of Flight and Injury Severity (0.08):
-
-A weak positive correlation means that the purpose of a flight (e.g., personal, business) may slightly influence injury severity.
-
-Implication: Certain flight purposes (like personal flights) might require additional safety measures or policies.
-
-2. Negative Correlations
-Total Fatal Injuries and Weather Condition (-0.08):
-
-Weak negative correlation suggests that fatalities are less common under certain weather conditions (e.g., VMC vs. IMC). However, IMC tends to have higher fatalities.
-
-Implication: Weather plays a role in risk mitigation. Additional safety protocols for IMC operations may help.
-
-Purpose of Flight and Weather Condition (-0.04):
-
-Weak negative correlation indicates that certain flight purposes may operate more in specific weather conditions.
-
-Implication: This can guide weather-specific safety training for pilots based on the purpose of the flight.
-
 3. Weak or No Correlations
 Aircraft Category and Injury Severity (0.00):
 
@@ -1728,32 +1695,11 @@ Injury Severity and Total Fatal Injuries (-0.02):
 
 Almost no correlation shows that the way injuries are categorized might not fully align with the actual fatality count.
 
-Implication: Consistency in data classification could improve analysis quality.
-
-Recommendations Based on Analysis
-Targeted Safety Enhancements:
-
-Develop maintenance and operational protocols tailored to specific aircraft categories and their associated engine types.
-
-Address specific risks for flight purposes like personal and business flights, which may relate to higher injury severities.
-
-Policy and Weather Training:
-
-Enhance safety measures and pilot training for operations in IMC, especially for high-risk purposes or engine types.
-
-Focus on Time Trends:
-
-Consider historical trends related to aircraft categories and weather conditions to guide future investments and risk assessments.
-
-Data Refinement:
-
-Ensure consistency in categorizing injury severity and fatalities to enhance analytical accuracy.
-
 ## Insights and Recommendations
 Based on the analysis, we summarize actionable insights:
 1. **Low-Risk Aircraft Models**: Aircraft categories with lower fatality rates should be prioritized for investment.
 2. **Safer Flight Purposes**: Flight purposes with lower average fatality rates, such as instructional flights, are safer.
-3. **Weather Conditions**: Avoid flights during adverse weather conditions to minimize risks.
+3. **Weather Conditions**: Avoid flights during adverse weather conditions to minimize risks, also there is need for staff training and other factors to reduce IMC risks.
 4. **Engine Types**: Electric and geared turbofan engines show lower fatality rates and should be considered for safer operations.
 5. **Policy Recommendations**: Regulatory bodies should focus on improving safety standards for high-risk aircraft categories and flight purposes.
 
