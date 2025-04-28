@@ -1703,3 +1703,5 @@ Based on the analysis, we summarize actionable insights:
 4. **Engine Types**: Electric and geared turbofan engines show lower fatality rates and should be considered for safer operations.
 5. **Policy Recommendations**: Regulatory bodies should focus on improving safety standards for high-risk aircraft categories and flight purposes.
 
+## Interactive dashboard
+Explore the interactive dashboard for aviation risk analysis [here](https://public.tableau.com/app/profile/eric.metobo/viz/DatavisualizationinaviationIndustry/Dashboard1?publish=yes).
