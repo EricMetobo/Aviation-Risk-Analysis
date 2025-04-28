@@ -1704,4 +1704,4 @@ Based on the analysis, we summarize actionable insights:
 5. **Policy Recommendations**: Regulatory bodies should focus on improving safety standards for high-risk aircraft categories and flight purposes.
 
 ## Interactive dashboard
-Explore the interactive dashboard for aviation risk analysis [here](https://public.tableau.com/app/profile/eric.metobo/viz/DatavisualizationinaviationIndustry/Dashboard1?publish=yes).
+Explore the interactive dashboard for aviation risk analysis [here](https://public.tableau.com/app/profile/eric.metobo/viz/DatavisualizationinaviationIndustry/Dashboard1?publish=yes). 
